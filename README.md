@@ -45,15 +45,21 @@ While Our Generation Is Pattern-Generated And Quite Primitive It Still Works As 
 
 After Each Test, The Results Will Be Placed In A .json File In The Local Directory Under _**"benchmark_results.json"**_. Each Entry Will Be Inserted In The (x,y) Coordinate Planed To Later Be Graphed With n As Our x-axis And y-axis As Our Runtime. The .json For Each Entry Will Generate A Name For This Individual (x,y) Coordinate As Seen In The Loop:
 
+    std::ofstream jsonFile("benchmark_results.json");
+    jsonFile << "{\n    \"Benchmark Results\": {\n";
+
     for(size_t i = 0; i < results.size(); i++)
     {
-        jsonFile << "        \"Test " << results[i].n << "\": {\n";
-        jsonFile << "            \"n\": " << results[i].n << ",\n";
-        jsonFile << "            \"y\": " << results[i].runtime << "\n";
+        jsonFile << "\"Test " << results[i].n << "\": {\n";
+        jsonFile << "    \"n\": " << results[i].n << ",\n";
+        jsonFile << "    \"y\": " << results[i].runtime << "\n";
         jsonFile << "        }";
         if(i < results.size() - 1) jsonFile << ",";
         jsonFile << "\n";
     }
+
+    jsonFile << "    }\n}";
+    jsonFile.close();
 
 
 <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> 
