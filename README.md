@@ -8,8 +8,6 @@ Runtime Complexity Benchmark Analysis Of The Exhaustive &amp; "Standard Greedy" 
 
 **The Breakdown:**
 
-This Program Starts In Our C++ Driver But This Works To Create Our Shader With Our Provided Files In A Shader Class. This Will Use API Calls To Signify Which Shaders Our Given Instance Uses So We Can Hot Swap But Currnetly Are Only Using One With Our Mandlebrot Function.
-
  When We Launch Our Shader Code We Also Set A Tick Counter In Which Will Be Indexed In Our While Loop. This Will Send In A Uniform (Variable Reference) To The Shader TO Use And This Will Be The Magnification To Give The Illusion Of Zooming In. 
 
  On Top Of This Magnifier, We Will Also Include A Fidelity Counter In Which Will Move On A Seperate Rate. The Purpose Of This Fidelity Counter Is That When We Zoom In We Zoom In Relative To Our Initial Perspective So Without Increasing The Fidelity We Will Start Reaching Pixelated Color Cubes Quick. Also THough If We Increase Our Fidelity Too High We Also Are Now THen Frying Our Computer BEcause We Are Telling It THen To Instead Of Drawing A Rough Estimate At A Faaaaar Distance Is Instead Rendering Every Single Atom Of The Texture From This Distance Which Is Just Wasting Executions On Practially Useless Calls.
