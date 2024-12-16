@@ -1,5 +1,5 @@
 # CPP_Knapsack_Benchmark
-Runtime Complexity Benchmark Analysis Of The Exhaustive &amp; "Standard Greedy"  0-1 Knapsack Heuristic Implementations
+Runtime Complexity Benchmark Analysis Of The Exhaustive &amp; "Standard Greedy"  0-1 Knapsack Heuristic Implementations. 
 
 ----------------------------------------------
 
@@ -11,7 +11,9 @@ Runtime Complexity Benchmark Analysis Of The Exhaustive &amp; "Standard Greedy" 
 
 <h3>**The Breakdown:**</h3>
 
-eer
+This Program Starts With A C++ Process Which Will Benchmark 2 Differing Implementations To Solve The 0-1 Knapsack Problem
+  - j
+  - n
 
 <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> 
 
