@@ -8,8 +8,6 @@ Runtime Complexity Benchmark Analysis Of The Exhaustive &amp; "Standard Greedy" 
 
 **The Breakdown:**
 
- On Top Of This Magnifier, We Will Also Include A Fidelity Counter In Which Will Move On A Seperate Rate. The Purpose Of This Fidelity Counter Is That When We Zoom In We Zoom In Relative To Our Initial Perspective So Without Increasing The Fidelity We Will Start Reaching Pixelated Color Cubes Quick. Also THough If We Increase Our Fidelity Too High We Also Are Now THen Frying Our Computer BEcause We Are Telling It THen To Instead Of Drawing A Rough Estimate At A Faaaaar Distance Is Instead Rendering Every Single Atom Of The Texture From This Distance Which Is Just Wasting Executions On Practially Useless Calls.
-
  On Top Of The Fidelity We Also Added A Color Shifter In Which Using The Current Tick And Sine Will Oscillate Between A Given Color Range.
 
  Also To Get My Specific Wants From The Renderer I May HAve Some Odd Values Placed In The Formulas If You Know Them Better Than Me But Hey It Looks Cool.
