@@ -6,7 +6,7 @@ Runtime Complexity Benchmark Analysis Of The Exhaustive &amp; "Standard Greedy" 
 <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/d7d34a00-aea1-4012-a142-7ec5ee62c3c1" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/d7d34a00-aea1-4012-a142-7ec5ee62c3c1" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/d7d34a00-aea1-4012-a142-7ec5ee62c3c1" alt="Cornstarch <3" width="55" height="49">
 
 
-<p font-size=50px>**The Breakdown:**</p>p>
+<p font-size=50px>**The Breakdown:**</p>
 
 eer
 
