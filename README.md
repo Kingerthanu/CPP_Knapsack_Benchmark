@@ -65,6 +65,7 @@ After Each Test, The Results Will Be Placed In A .json File In The Local Directo
 
 After The C++ Benchmarks Are Done You Can Run THe Python Script Which Generates Multiple Charts And Graphs Based Upon The Entries For Comparison Of The Two Implementations With Some Charts Being Just A Graph Of The Data For A Single Implmentation And Others Being Overlap Of Both Them. Our Results Also Displayed The Exhaustive Algorithm Needing To Be Charted With The y-axis Being In Hours And The Heuristic Needing To Be Charted In Microseconds.
 
+Utilizing The .json Data And Python Charts Created, There Is A Created White Paper On My Findings Between These Two Implenentations, Their Unique Pros-And-Cons As Well As Domain-Applicability As Each Has Their Usage Mainly With One Being Optimal And The Other Being Sub-Optimal.
 
 <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> 
 
