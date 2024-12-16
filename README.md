@@ -17,7 +17,7 @@ eer
 <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/91b53912-4062-4d35-99da-da91c685ba0a" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/91b53912-4062-4d35-99da-da91c685ba0a" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/91b53912-4062-4d35-99da-da91c685ba0a" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/91b53912-4062-4d35-99da-da91c685ba0a" alt="Cornstarch <3" width="55" height="49"> 
 
 
-**Features:**
+<h3>**Features:**</h3>
 
 **Generated Benchmark Charts From Python Script:**
 ![algorithm_comparison](https://github.com/user-attachments/assets/d6297d24-06dd-43b3-ba97-4cccfdc59476)
