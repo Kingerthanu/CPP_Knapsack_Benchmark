@@ -6,9 +6,6 @@ Runtime Complexity Benchmark Analysis Of The Exhaustive &amp; "Standard Greedy" 
 <img src="https://github.com/user-attachments/assets/b42434d4-bd8f-46c2-b5e7-5de18d4db46b" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/b42434d4-bd8f-46c2-b5e7-5de18d4db46b" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/b42434d4-bd8f-46c2-b5e7-5de18d4db46b" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/b42434d4-bd8f-46c2-b5e7-5de18d4db46b" alt="Cornstarch <3" width="75" height="99"> 
 
 
-
-
-
 <h3>**The Breakdown:**</h3>
 
 This Program Starts With A C++ Process Which Will Benchmark 2 Differing Implementations To Solve The 0-1 Knapsack Problem:
@@ -18,6 +15,20 @@ This Program Starts With A C++ Process Which Will Benchmark 2 Differing Implemen
 The Program Is Meant To See How Varying Algorthmic Implementations Increases In Runtime Complexity And Considerations For Each Of Their Utility Depending On Domain-Knowledge. 
 
 After The Program Is Ran, It Will Run 45 Individual Benchmarks On The Two Differing Algorithms--with both utilizing the same items to consider to ensure equal argument complexity--each of these tests will be done in increments of 10; this means we are running from 10 -> 450. This Allows Us To See How Runtime Scales Between Varying Values Of n, Where n Is The Number Of Input Items We Are Checking To Insert.
+
+Each Test Will Utilize This Code Snippet To Generate Our Items For Each Increment Of n:
+
+        Item* items = new Item[n];
+        for(unsigned int i = 0; i < n; i++)
+        {
+            items[i] =
+            {
+                static_cast<float>(i + 1),
+                static_cast<float>((i + 1) * 10),
+                "Item" + std::to_string(i)
+            };
+        }
+
 
 <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> 
 
