@@ -14,6 +14,16 @@ This Program Starts With A C++ Process Which Will Benchmark 2 Differing Implemen
 
 The Program Is Meant To See How Varying Algorthmic Implementations Increases In Runtime Complexity And Considerations For Each Of Their Utility Depending On Domain-Knowledge. 
 
+For 0-1 Knapsack Problem It Usually Utilizes 2 Arrays For weight And profit Of Each Item But Without names This Is A Custom Struct That Holds weight, profit, And name For Each Item For Easier Debugging And Unit Testing For Plotting Of Increasing n:
+
+    struct Item
+    {
+      float weight = 0.0f;
+      float profit = 0.0f;
+      std::string name;
+    };
+
+
 After The Program Is Ran, It Will Run 45 Individual Benchmarks On The Two Differing Algorithms--with both utilizing the same items to consider to ensure equal argument complexity--each of these tests will be done in increments of 10; this means we are running from 10 -> 450. This Allows Us To See How Runtime Scales Between Varying Values Of n, Where n Is The Number Of Input Items We Are Checking To Insert.
 
 Each Test Will Utilize This Code Snippet To Generate Our Items For Each Increment Of n:
