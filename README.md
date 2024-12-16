@@ -8,8 +8,6 @@ Runtime Complexity Benchmark Analysis Of The Exhaustive &amp; "Standard Greedy" 
 
 **The Breakdown:**
 
- This C++ Program Works To Use GLSL Shader Coding To Represent The Mandlebrot Equation (But In A Cooler Way).
-
 This Program Starts In Our C++ Driver But This Works To Create Our Shader With Our Provided Files In A Shader Class. This Will Use API Calls To Signify Which Shaders Our Given Instance Uses So We Can Hot Swap But Currnetly Are Only Using One With Our Mandlebrot Function.
 
  When We Launch Our Shader Code We Also Set A Tick Counter In Which Will Be Indexed In Our While Loop. This Will Send In A Uniform (Variable Reference) To The Shader TO Use And This Will Be The Magnification To Give The Illusion Of Zooming In. 
