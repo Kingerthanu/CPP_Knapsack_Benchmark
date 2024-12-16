@@ -24,7 +24,7 @@ For 0-1 Knapsack Problem It Usually Utilizes 2 Arrays For weight And profit Of E
     };
 
 
-After The Program Is Ran, It Will Run 45 Individual Benchmarks On The Two Differing Algorithms--with both utilizing the same items to consider to ensure equal argument complexity--each of these tests will be done in increments of 10; this means we are running from 10 -> 450. This Allows Us To See How Runtime Scales Between Varying Values Of n, Where n Is The Number Of Input Items We Are Checking To Insert.
+After The Program Is Ran, It Will Run 45 Individual Benchmarks On The Two Differing Algorithms--with both utilizing the same items to consider to ensure equal argument complexity--each of these tests will be done in increments of 10 and be tracked using std::chrono in milliseconds; this means we are running from 10 -> 450. This Allows Us To See How Runtime Scales Between Varying Values Of n, Where n Is The Number Of Input Items We Are Checking To Insert.
 
 Each Test Will Utilize This Code Snippet To Generate Our Items For Each Increment Of n:
 
@@ -42,6 +42,19 @@ Each Test Will Utilize This Code Snippet To Generate Our Items For Each Incremen
 While Our Generation Is Pattern-Generated And Quite Primitive It Still Works As Great Means Of Conducting Analysis Tests As It Allows More Replicable Results Between Systems And Easier Scalability. This Is The Same For Our Max capacity Of Our Knapsack Bins Which Scales With Our n:
 
     float capacity = static_cast<float>(n) * 0.5f;
+
+After Each Test, The Results Will Be Placed In A .json File In The Local Directory Under _**"benchmark_results.json"**_. Each Entry Will Be Inserted In The (x,y) Coordinate Planed To Later Be Graphed With n As Our x-axis And y-axis As Our Runtime. The .json For Each Entry Will Generate A Name For This Individual (x,y) Coordinate As Seen In The Loop:
+
+    for(size_t i = 0; i < results.size(); i++)
+    {
+        jsonFile << "        \"Test " << results[i].n << "\": {\n";
+        jsonFile << "            \"n\": " << results[i].n << ",\n";
+        jsonFile << "            \"y\": " << results[i].runtime << "\n";
+        jsonFile << "        }";
+        if(i < results.size() - 1) jsonFile << ",";
+        jsonFile << "\n";
+    }
+
 
 <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> 
 
