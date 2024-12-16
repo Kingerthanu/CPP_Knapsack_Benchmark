@@ -19,7 +19,7 @@ eer
 
 <h3>**Features:**</h3>
 
-Generated Benchmark Charts From Python Script:
+Generated Benchmark Charts From Python Script Using Collected Data:
 ![algorithm_comparison](https://github.com/user-attachments/assets/d6297d24-06dd-43b3-ba97-4cccfdc59476)
 
 ![knapsack_algorithm_comparison_split](https://github.com/user-attachments/assets/28fefa31-6856-4a5e-b491-dc36a61b6550)
