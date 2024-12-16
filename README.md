@@ -17,7 +17,9 @@ eer
 
 ----------------------------------------------
 
-<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/91b53912-4062-4d35-99da-da91c685ba0a" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/91b53912-4062-4d35-99da-da91c685ba0a" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/91b53912-4062-4d35-99da-da91c685ba0a" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/91b53912-4062-4d35-99da-da91c685ba0a" alt="Cornstarch <3" width="55" height="49"> 
+<img src="https://github.com/user-attachments/assets/645e1b72-7232-4f0c-9214-ec72adf171cf" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/user-attachments/assets/645e1b72-7232-4f0c-9214-ec72adf171cf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/user-attachments/assets/645e1b72-7232-4f0c-9214-ec72adf171cf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/user-attachments/assets/645e1b72-7232-4f0c-9214-ec72adf171cf" alt="Cornstarch <3" width="55" height="49">  
+
+
 
 
 <h3>**Features:**</h3>
