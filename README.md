@@ -28,16 +28,16 @@ After The Program Is Ran, It Will Run 45 Individual Benchmarks On The Two Differ
 
 Each Test Will Utilize This Code Snippet To Generate Our Items For Each Increment Of n:
 
-        Item* items = new Item[n];
-        for(unsigned int i = 0; i < n; i++)
+    Item* items = new Item[n];
+    for(unsigned int i = 0; i < n; i++)
+    {
+        items[i] =
         {
-            items[i] =
-            {
-                static_cast<float>(i + 1),
-                static_cast<float>((i + 1) * 10),
-                "Item" + std::to_string(i)
-            };
-        }
+            static_cast<float>(i + 1),
+            static_cast<float>((i + 1) * 10),
+            "Item" + std::to_string(i)
+        };
+    }
 
 
 <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> 
