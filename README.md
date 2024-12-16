@@ -8,9 +8,6 @@ Runtime Complexity Benchmark Analysis Of The Exhaustive &amp; "Standard Greedy" 
 
 **The Breakdown:**
 
-I Loved This Project As It Was Super Cool And Helped Really Solidify GPU Coding And How It Works Under The Hood Much More. Instead Of Focusing More On The VBO And All Those Problems, Focusing JUST On The Shading Program Made ME Realize Actually How Powerful It Can Be If We Can Properly Divert Traffic To It For Quick Crunching Of Data For Both Parts Of Our Pipeline. Also Creating These Low-Resistance Functions To "Shade" Our Specific Pixels Is Very Interesting To See From A Traditionally Single Thread Design Principle On Program. While A Lot Of Other Improvements Could Be Seen On The Fidelity Slider And Other Variables It Still Is In Such A Functional State And If Anything Will Do Small Fixes Like Increasing Resolution More To Infininty As Well As Adding Rotation.
- 
-
 <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/5a500dfd-7e30-40ea-9912-05faaa71dcdf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/5a500dfd-7e30-40ea-9912-05faaa71dcdf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/5a500dfd-7e30-40ea-9912-05faaa71dcdf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/5a500dfd-7e30-40ea-9912-05faaa71dcdf" alt="Cornstarch <3" width="55" height="49"> 
 
 ----------------------------------------------
