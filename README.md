@@ -8,8 +8,6 @@ Runtime Complexity Benchmark Analysis Of The Exhaustive &amp; "Standard Greedy" 
 
 **The Breakdown:**
 
- On Top Of The Fidelity We Also Added A Color Shifter In Which Using The Current Tick And Sine Will Oscillate Between A Given Color Range.
-
  Also To Get My Specific Wants From The Renderer I May HAve Some Odd Values Placed In The Formulas If You Know Them Better Than Me But Hey It Looks Cool.
 
 I Loved This Project As It Was Super Cool And Helped Really Solidify GPU Coding And How It Works Under The Hood Much More. Instead Of Focusing More On The VBO And All Those Problems, Focusing JUST On The Shading Program Made ME Realize Actually How Powerful It Can Be If We Can Properly Divert Traffic To It For Quick Crunching Of Data For Both Parts Of Our Pipeline. Also Creating These Low-Resistance Functions To "Shade" Our Specific Pixels Is Very Interesting To See From A Traditionally Single Thread Design Principle On Program. While A Lot Of Other Improvements Could Be Seen On The Fidelity Slider And Other Variables It Still Is In Such A Functional State And If Anything Will Do Small Fixes Like Increasing Resolution More To Infininty As Well As Adding Rotation.
