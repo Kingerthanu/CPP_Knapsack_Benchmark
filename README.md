@@ -1,4 +1,4 @@
-# CPP_Knapsack_Benchmark
+![runtime_analysis](https://github.com/user-attachments/assets/42edc8db-4f1c-4f60-9078-6cccfc5ff80f)# CPP_Knapsack_Benchmark
 Runtime Complexity Benchmark Analysis Of The Exhaustive &amp; "Standard Greedy"  0-1 Knapsack Heuristic Implementations
 
 ----------------------------------------------
@@ -18,6 +18,8 @@ eer
 
 
 **Features:**
+
+**Generated Benchmark Charts From Python Script:**
 ![algorithm_comparison](https://github.com/user-attachments/assets/d6297d24-06dd-43b3-ba97-4cccfdc59476)
 
 ![knapsack_algorithm_comparison_split](https://github.com/user-attachments/assets/28fefa31-6856-4a5e-b491-dc36a61b6550)
