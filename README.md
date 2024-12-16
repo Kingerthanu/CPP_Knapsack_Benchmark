@@ -3,7 +3,8 @@ Runtime Complexity Benchmark Analysis Of The Exhaustive &amp; "Standard Greedy" 
 
 ----------------------------------------------
 
-<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/d7d34a00-aea1-4012-a142-7ec5ee62c3c1" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/d7d34a00-aea1-4012-a142-7ec5ee62c3c1" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/d7d34a00-aea1-4012-a142-7ec5ee62c3c1" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/user-attachments/assets/a8c068c0-df80-48e9-95ab-c9bfdb853b25" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/user-attachments/assets/a8c068c0-df80-48e9-95ab-c9bfdb853b25" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/user-attachments/assets/a8c068c0-df80-48e9-95ab-c9bfdb853b25" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/user-attachments/assets/a8c068c0-df80-48e9-95ab-c9bfdb853b25" alt="Cornstarch <3" width="55" height="49">
+
 
 
 <h3>**The Breakdown:**</h3>
