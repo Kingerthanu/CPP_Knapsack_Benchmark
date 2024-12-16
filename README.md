@@ -8,7 +8,7 @@ Runtime Complexity Benchmark Analysis Of The Exhaustive &amp; "Standard Greedy" 
 
 **The Breakdown:**
 
-er
+eer
 
 <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/5a500dfd-7e30-40ea-9912-05faaa71dcdf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/5a500dfd-7e30-40ea-9912-05faaa71dcdf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/5a500dfd-7e30-40ea-9912-05faaa71dcdf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/5a500dfd-7e30-40ea-9912-05faaa71dcdf" alt="Cornstarch <3" width="55" height="49"> 
 
