@@ -39,6 +39,9 @@ Each Test Will Utilize This Code Snippet To Generate Our Items For Each Incremen
         };
     }
 
+While Our Generation Is Pattern-Generated And Quite Primitive It Still Works As Great Means Of Conducting Analysis Tests As It Allows More Replicable Results Between Systems And Easier Scalability. This Is The Same For Our Max capacity Of Our Knapsack Bins Which Scales With Our n:
+
+    float capacity = static_cast<float>(n) * 0.5f;
 
 <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> 
 
