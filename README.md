@@ -3,7 +3,8 @@ Runtime Complexity Benchmark Analysis Of The Exhaustive &amp; "Standard Greedy" 
 
 ----------------------------------------------
 
-<img src="https://github.com/user-attachments/assets/db605959-f47e-4527-8211-2bd7488a2813" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/user-attachments/assets/db605959-f47e-4527-8211-2bd7488a2813" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/user-attachments/assets/db605959-f47e-4527-8211-2bd7488a2813" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/user-attachments/assets/db605959-f47e-4527-8211-2bd7488a2813" alt="Cornstarch <3" width="55" height="49"> 
+<img src="https://github.com/user-attachments/assets/b42434d4-bd8f-46c2-b5e7-5de18d4db46b" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/user-attachments/assets/b42434d4-bd8f-46c2-b5e7-5de18d4db46b" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/user-attachments/assets/b42434d4-bd8f-46c2-b5e7-5de18d4db46b" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/user-attachments/assets/b42434d4-bd8f-46c2-b5e7-5de18d4db46b" alt="Cornstarch <3" width="55" height="49"> 
+
 
 
 
@@ -12,7 +13,7 @@ Runtime Complexity Benchmark Analysis Of The Exhaustive &amp; "Standard Greedy" 
 
 eer
 
-<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/5a500dfd-7e30-40ea-9912-05faaa71dcdf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/5a500dfd-7e30-40ea-9912-05faaa71dcdf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/5a500dfd-7e30-40ea-9912-05faaa71dcdf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/5a500dfd-7e30-40ea-9912-05faaa71dcdf" alt="Cornstarch <3" width="55" height="49"> 
+<img src="https://github.com/user-attachments/assets/db605959-f47e-4527-8211-2bd7488a2813" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/user-attachments/assets/db605959-f47e-4527-8211-2bd7488a2813" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/user-attachments/assets/db605959-f47e-4527-8211-2bd7488a2813" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/user-attachments/assets/db605959-f47e-4527-8211-2bd7488a2813" alt="Cornstarch <3" width="55" height="49"> 
 
 ----------------------------------------------
 
