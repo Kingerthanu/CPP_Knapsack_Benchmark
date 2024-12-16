@@ -8,9 +8,11 @@ Runtime Complexity Benchmark Analysis Of The Exhaustive &amp; "Standard Greedy" 
 
 <h3>**The Breakdown:**</h3>
 
-This Program Starts With A C++ Process Which Will Benchmark 2 Differing Implementations To Solve The 0-1 Knapsack Problem:
+This Program Has 2 Main Scripts To Be Ran, Starting With A C++ Process Which Will Benchmark 2 Differing Implementations To Solve The 0-1 Knapsack Problem:
   <br>&nbsp; 1) Recursive Optimal Exhaustive Include-Exclude Algorithm: A O(2^n) Runtime Complexity Algorithm Which Checks All Subset Combinations
   <br>&nbsp; 2) Iterative Suboptimal "Standard Greedy" (Profit-Per-Weight) Heuristic: A O(n*log(n)) Runtime Complexity Heuristic Binning By Profit-Per-Weight
+
+Then A Python Script Which Generates Charts And Graphs Based Upon The Benchmark Results.
 
 The Program Is Meant To See How Varying Algorthmic Implementations Increases In Runtime Complexity And Considerations For Each Of Their Utility Depending On Domain-Knowledge. 
 
@@ -60,6 +62,8 @@ After Each Test, The Results Will Be Placed In A .json File In The Local Directo
 
     jsonFile << "    }\n}";
     jsonFile.close();
+
+After The C++ Benchmarks Are Done You Can Run THe Python Script Which Generates Multiple Charts And Graphs Based Upon The Entries For Comparison Of The Two Implementations With Some Charts Being Just A Graph Of The Data For A Single Implmentation And Others Being Overlap Of Both Them. Our Results Also Displayed The Exhaustive Algorithm Needing To Be Charted With The y-axis Being In Hours And The Heuristic Needing To Be Charted In Microseconds.
 
 
 <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> <img src="https://github.com/user-attachments/assets/00f8d76b-9e49-432c-9506-3d460840a991" alt="Cornstarch <3" width="75" height="99"> 
